@@ -1,1 +1,1 @@
-node /app/server.js
+uwsgi --ini payment.ini
